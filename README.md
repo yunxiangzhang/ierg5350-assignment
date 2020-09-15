@@ -49,7 +49,7 @@ Since the assignments are released one by one, you need to sync your local repo 
 ```bash
 git clone https://github.com/YOUR_GITHUB_ACCOUNT/ierg5350-assignment.git
 cd ierg5350-assignment
-git remote add upstream https://github.com/whoever/whatever.git
+git remote add upstream https://github.com/cuhkrlcourse/ierg5350-assignment.git
 ```
 
  (by using this command, you have created a new remote named `upstream`)
